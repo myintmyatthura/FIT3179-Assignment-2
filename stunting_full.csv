@@ -7,6 +7,8 @@ Chile,CHL,1995,3.900000095,3.9
 China,CHN,1995,31.20000076,31.2
 Colombia,COL,1995,19.60000038,19.6
 Democratic Republic of the Congo,COD,1995,51,51
+Democratic Republic of Congo,,1995,51,51
+Congo,,1995,51,51
 Egypt,EGY,1995,34.79999924,34.8
 Eritrea,ERI,1995,47.79999924,47.8
 Guatemala,GTM,1995,55.40000153,55.4
@@ -82,4 +84,4 @@ Sudan,,1995,38.3,38.3
 Ethiopia,,1995,40.0,40.0
 Namibia,,1995,35.6,35.6
 Botswana,,1995,34.2,34.2
-Tanzania,,1995,49.8.49.8
+Tanzania,,1995,49.8,49.8
